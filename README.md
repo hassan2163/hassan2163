@@ -22,15 +22,15 @@ I am currently building practical AI and full-stack projects using **React.js, N
 
 ## Featured Project
 
-### AI Job Application Assistant
+### JobFit AI — Automated Job Application Platform
 
-A full-stack AI-powered application that analyzes job descriptions, evaluates resume fit, and generates ATS-style resume content, cover letters, match analysis, and interview preparation guidance.
+A full-stack, multi-user SaaS that automates the job application pipeline end-to-end: scrapes live listings from LinkedIn, Indeed, and Glassdoor, scores matches against the user's resume with Google Gemini AI, and auto-generates ATS-optimized tailored resumes and cover letters — all through a real-time review dashboard.
 
-**Tech Stack:** React.js, Node.js, Express.js, Gemini API, JavaScript, GitHub Pages, Render  
-**Focus Areas:** AI automation, job search productivity, ATS optimization, resume tailoring, full-stack deployment
+**Tech Stack:** React, TypeScript, TanStack Start, Node.js, Express, Supabase (Postgres + Auth), Google Gemini API, Apify, Cloudflare Pages, Railway  
+**Focus Areas:** AI automation, job search productivity, ATS optimization, resume tailoring, multi-user SaaS architecture
 
-🔗 **Live Demo:** https://hassan2163.github.io/AI-Job-Application-Assistant/  
-📂 **Repository:** https://github.com/hassan2163/AI-Job-Application-Assistant
+🔗 **Live Demo:** https://ai-job-agent-2-0.pages.dev  
+📂 **Repository:** https://github.com/hassan2163/ai-job-agent-2.0
 
 ---
 
@@ -73,3 +73,4 @@ I am currently pursuing roles such as:
 - GitHub: https://github.com/hassan2163
 - Location: Oklahoma City, OK
 - Work Authorization: U.S. Permanent Resident
+
